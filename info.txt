@@ -4,3 +4,4 @@ Bangalore
 Training
 DevOps
 Local reset command
+Remote reset training
