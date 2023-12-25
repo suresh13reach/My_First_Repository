@@ -5,8 +5,6 @@ Training
 DevOps
 Local reset command
 Remote reset training
-<<<<<<< HEAD
 My changes
-=======
 Developer 1 Changes
->>>>>>> fd9d501a357e2c2ace08c35fa91a30afdcce3e3a
+Oracle
