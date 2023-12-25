@@ -6,5 +6,10 @@ DevOps
 Local reset command
 Remote reset training
 My changes
+<<<<<<< HEAD
 Developer 1 Changes
 Oracle
+=======
+eveloper 1 Changes
+Java
+>>>>>>> refs/remotes/origin/main
