@@ -3,3 +3,4 @@ Bangalore
 560036
 Training
 DevOps
+Local reset command
